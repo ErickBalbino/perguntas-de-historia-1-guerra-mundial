@@ -16,10 +16,13 @@
     font-size: 17px;
     background-color: #22bb36;
     padding: 16px;
-    border-radius: 10px;
+    border-radius: 15px;
     font-size: 18px;
     color: #fff;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.521);
+}
+.cabecalho_menu-lista--item a:hover{
+    background-color: #59da6a;
 }
 .cabecalho_logo-site{
     margin-left: 890px;
@@ -27,15 +30,19 @@
 }
 
 /*Conteudo*/
+.corpo_site{
+    background-color: #eee;
+}
 .conteudo_site{
+    background-color: #fff;
     width: 1300px;
     margin: auto;
     text-align: justify;
     border: 1px solid #aaa;
     padding-top: 50px;
-    padding-left: 10px;
-    padding-bottom: 10px;
-    padding-right: 10px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.534);
 }
 section h1{
@@ -44,12 +51,64 @@ section h1{
     text-decoration: underline #0fff 4px;
 }
 .introducao{
-    font-size: 20px;
+    font-size: 18px;
     line-height: 1.5;
     text-align: justify;
 }
+/*Questões*/
 .txtquest1{
-    font-size: 20px;
+    margin-top: 40px;
+    font-size: 18px;
     line-height: 1.5;
     text-align: justify;
+    width: 900px;
+}
+.txtquest2{
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+    width: 900px;
+    margin-top: 100px;
+}
+.txtquest3{
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+    width: 900px;
+    margin-top: 100px;
+}
+.alternativas{
+    font-size: 18px;
+    line-height: 1.5;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+details{
+    padding-top: 10px;
+    background-color: #aaa;
+    width: 900px;
+    border-radius: 10px;
+}
+summary{
+    display: flex;
+    background: #00f;
+    width: 900px;
+    height: 30px;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+details p{
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+    width: 700px;
+    margin-left: 80px;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
