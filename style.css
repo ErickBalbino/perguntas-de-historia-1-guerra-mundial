@@ -48,7 +48,7 @@
 section h1{
     font-size: 30pt;
     margin-bottom: 30px;
-    text-decoration: underline #0fff 4px;
+    text-decoration: underline #0ff 4px;
 }
 .introducao{
     font-size: 18px;
@@ -84,6 +84,24 @@ section h1{
     margin-bottom: 20px;
     cursor: pointer;
 }
+/* Resposta das questões */
+.btnverificar{
+    display: inline-block;
+    font-size: 13pt;
+    font-weight: bold;
+    margin-bottom: 20px;
+    background-color: #22bb36;
+    color: #fff;
+    border-radius: 10px;
+    padding: 3px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.resposta1{
+    padding: 0px 0px 10px 30px;
+    margin-bottom: 10px;
+    font-size: 14pt;
+}
 details{
     padding-top: 10px;
     background-color: #aaa;
@@ -102,6 +120,7 @@ summary{
     font-weight: bold;
     border-radius: 10px;
     cursor: pointer;
+    
 }
 details p{
     font-size: 18px;
