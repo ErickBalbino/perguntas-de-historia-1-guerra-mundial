@@ -1,7 +1,7 @@
 //Verificar questão 1
 function verificarQuestao01() {
     //Variaveis
-    var resposta = window.document.getElementsByName('alt1')  // Pegar resposta do usuário
+    var resposta = window.document.getElementsByName('qst1')  // Pegar resposta do usuário
     var resultado = window.document.getElementById('resposta1') // Substituir pelo resultado
 
     //Verificar as respostas
@@ -26,7 +26,7 @@ function verificarQuestao01() {
 
 //Verificar questão 2
 function verificarQuestao02() {
-    var resposta = window.document.getElementsByName('alt2')  //verificar resposta do usuario
+    var resposta = window.document.getElementsByName('qst2')  //verificar resposta do usuario
     var resultado = window.document.getElementById('resposta2')  //substituir pelo resultado
 
     if(resposta[0].checked){
@@ -50,7 +50,7 @@ function verificarQuestao02() {
 
 //Verificar questão 3
 function verificarQuestao03(){
-    var resposta = window.document.getElementsByName('alt3')
+    var resposta = window.document.getElementsByName('qst3')
     var resultado = window.document.getElementById('resposta3')
 
     if(resposta[0].checked){

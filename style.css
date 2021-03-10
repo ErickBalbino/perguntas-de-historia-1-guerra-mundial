@@ -74,6 +74,20 @@ section h1{
     width: 900px;
     margin-top: 100px;
 }
+.txtquest4{
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+    width: 900px;
+    margin-top: 100px;
+}
+.txtquest5{
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+    width: 900px;
+    margin-top: 100px;
+}
 input{
     cursor: pointer;
 }
@@ -141,7 +155,7 @@ details p{
     padding-top: 10px;
     padding-bottom: 20px;
 }
-.details3{
+.detailsFinal{
     margin-bottom: 40px;
 }
 
