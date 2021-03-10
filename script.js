@@ -19,7 +19,7 @@ function verificarQuestao01() {
         }
         if(resposta[3].checked){
             resultado.innerHTML = `A sua resposta está incorreta! Mas não desanime.`
-            resultado.style.color = 'f00'
+            resultado.style.color = '#f00'
         }
     }
 }

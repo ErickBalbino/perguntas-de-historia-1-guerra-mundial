@@ -6,7 +6,7 @@
     height: 150px;
     background: linear-gradient(to right, #0fff, #a52a2a);
     align-items: center;
-    border-bottom: 2px solid #000;
+    border-bottom: 1px solid #000;
 }
 .cabecalho_menu-lista--item{
     display: inline;
@@ -35,15 +35,12 @@
 }
 .conteudo_site{
     background-color: #fff;
-    width: 1300px;
     margin: auto;
     text-align: justify;
-    border: 1px solid rgb(0, 0, 0);
     padding-top: 50px;
     padding-left: 15px;
     padding-bottom: 15px;
     padding-right: 15px;
-    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.534);
 }
 section h1{
     font-size: 30pt;
@@ -152,11 +149,15 @@ details p{
 .rodape{
     background-color: #3d3d3d;
     color: #0ff;
-    padding: 50px 0px 15px 0px;
+    padding: 50px 0px 30px 0px;
 }
 .rodape_secao{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+}
+.rodape_introducao h2{
+    font-size: 1.5rem;
+    margin-bottom: 10px;
 }
 .rodape_introducao p{ 
     font-size: 1.1rem;
@@ -166,4 +167,18 @@ details p{
     font-size: 1.15rem;
     line-height: 1.15;
     margin-bottom: 10px;
+}
+.icone_facebook{
+    margin-bottom: 2px;
+    margin-right: 5px;
+}
+.icone_linkedin{
+    margin-bottom: 2px;
+    margin-right: 5px;
+}
+icone_instagram{
+    margin-right: 10px;
+}
+.icone_github{
+    margin-left: 5px;
 }
