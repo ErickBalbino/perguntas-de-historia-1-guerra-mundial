@@ -196,30 +196,38 @@ details p{
     justify-content: space-around;
 }
 .rodape_introducao h2{
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     margin-bottom: 10px;
 }
 .rodape_introducao p{ 
     font-size: 1.1rem;
     line-height: 1.15;
+    display: inline;
 }
 .rodape_redesSociais h2{
-    font-size: 1.15rem;
-    line-height: 1.15;
+    font-size: 1.7rem;
     margin-bottom: 10px;
 }
+.rodape_redesSociais p{
+    font-size: 1.1rem;
+    line-height: 1.15;
+}
 .icone_facebook{
+    margin-top: 5px;
     margin-bottom: 2px;
     margin-right: 5px;
 }
 .icone_linkedin{
+    margin-top: 5px;
     margin-bottom: 2px;
     margin-right: 5px;
 }
 icone_instagram{
+    margin-top: 5px;
     margin-right: 10px;
 }
 .icone_github{
+    margin-top: 5px;
     margin-left: 5px;
 }
 
@@ -264,6 +272,7 @@ icone_instagram{
         line-height: 1.5;
         text-align: justify;
         width: 300px;
+        padding-left: 5px;
     }
     .txtquest2{
         font-size: 14px;
@@ -271,6 +280,7 @@ icone_instagram{
         text-align: justify;
         width: 290px;
         margin-top: 40px;
+        padding-left: 5px;
     }
     .txtquest3{
         font-size: 14px;
@@ -278,6 +288,7 @@ icone_instagram{
         text-align: justify;
         width: 290px;
         margin-top: 40px;
+        padding-left: 5px;
     }
     .txtquest4{
         font-size: 14px;
@@ -285,6 +296,7 @@ icone_instagram{
         text-align: justify;
         width: 290px;
         margin-top: 40px;
+        padding-left: 5px;
     }
     .txtquest5{
         font-size: 14px;
@@ -292,6 +304,7 @@ icone_instagram{
         text-align: justify;
         width: 290px;
         margin-top: 40px;
+        padding-left: 5px;
     }
     .btnverificar{
     font-size: 10pt;
@@ -317,7 +330,6 @@ icone_instagram{
         line-height: 1.5;
         text-align: justify;
         width: 240px;
-        margin-left: 10px;
         padding-top: 10px;
         padding-bottom: 20px;
     }
@@ -348,18 +360,6 @@ icone_instagram{
         margin-top: 20px;
     }
     .icone_facebook{
-        margin-bottom: 2px;
-        margin-right: 5px;
-        margin-left: 10px;
-    }
-    .icone_linkedin{
-        margin-bottom: 2px;
-        margin-right: 5px;
-    }
-    icone_instagram{
         margin-right: 10px;
-    }
-    .icone_github{
-        margin-left: 5px;
     }
 }
