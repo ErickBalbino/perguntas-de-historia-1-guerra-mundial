@@ -243,6 +243,9 @@ icone_instagram{
     .cabecalho_menu-lista--item a:hover{
         background-color: #59da6a;
     }
+    .cabecalho_logo-site{
+        display: none;
+    }
 
     /* corpo do site */
     section h1{
@@ -250,36 +253,39 @@ icone_instagram{
         margin-bottom: 20px;
         text-decoration: underline #0ff 2px;
     }
+    .introducao{
+        font-size: 14px;
+    }
     .txtquest1{
         margin-top: 40px;
-        font-size: 18px;
+        font-size: 14px;
         line-height: 1.5;
         text-align: justify;
         width: 300px;
     }
     .txtquest2{
-        font-size: 12px;
+        font-size: 14px;
         line-height: 1.5;
         text-align: justify;
         width: 300px;
         margin-top: 40px;
     }
     .txtquest3{
-        font-size: 12px;
+        font-size: 14px;
         line-height: 1.5;
         text-align: justify;
         width: 300px;
         margin-top: 40px;
     }
     .txtquest4{
-        font-size: 12px;
+        font-size: 14px;
         line-height: 1.5;
         text-align: justify;
         width: 300px;
         margin-top: 40px;
     }
     .txtquest5{
-        font-size: 12px;
+        font-size: 14px;
         line-height: 1.5;
         text-align: justify;
         width: 300px;
@@ -289,7 +295,7 @@ icone_instagram{
        font-size: 10pt;
     }
     .alternativas{
-        font-size: 12px;
+        font-size: 14px;
         line-height: 1.5;
         margin-top: 5px;
         margin-bottom: 10px;
@@ -304,4 +310,13 @@ icone_instagram{
         height: 15px;
         font-size: 12px;
     }
+    details p{
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: justify;
+    width: 200px;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
 }
