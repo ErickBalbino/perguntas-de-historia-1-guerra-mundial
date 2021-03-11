@@ -274,25 +274,29 @@ icone_instagram{
         font-size: 1.1rem;
     }
     .txtquest1{
+        font-family: 'Times New Roman', Times, serif;
         margin-top: 40px;
         font-size: 1.1rem;
         line-height: 1.5;
-        width: 290px;
+        width: auto;
     }
     .txtquest2{
+        font-family: 'Times New Roman', Times, serif;
         font-size: 1.1rem;
         line-height: 1.5;
-        width: 290px;
+        width: auto;
         margin-top: 40px;
     }
     .txtquest3{
+        font-family: 'Times New Roman', Times, serif;
         font-size: 1.1rem;
         line-height: 1.5;
         text-align: justify;
-        width: 290px;
+        width: auto;
         margin-top: 40px;
     }
     .txtquest4{
+        font-family: 'Times New Roman', Times, serif;
         font-size: 1.1rem;
         line-height: 1.5;
         text-align: justify;
@@ -300,10 +304,11 @@ icone_instagram{
         margin-top: 40px;
     }
     .txtquest5{
+        font-family: 'Times New Roman', Times, serif;
         font-size: 1.1rem;
         line-height: 1.5;
         text-align: justify;
-        width: 290px;
+        width: auto;
         margin-top: 40px;
     }
     .btnverificar{
@@ -318,15 +323,16 @@ icone_instagram{
     details{
         padding-top: 10px;
         background-color: #aaa;
-        width: 290px;
+        width: auto;
     }
     summary{
-        width: 290px;
+        width: auto;
         height: 40px;
         padding: 5px;
         font-size: 1.1rem;
     }
     details p{
+        font-family: 'Times New Roman', Times, serif;
         font-size: 1.1rem;
         line-height: 1.5;
         text-align: justify;
@@ -340,7 +346,7 @@ icone_instagram{
     }
     .perfil_txt{
         margin-left: 5px;
-        font-size: 14px;
+        font-size: 1.05rem;
         font-family: 'Times New Roman', Times, serif;
     }
     /* Rodapé */
