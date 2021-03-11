@@ -264,26 +264,26 @@ icone_instagram{
         text-decoration: underline #0ff 2px;
     }
     .introducao{
-        font-size: 14px;
+        font-size: 1.1rem;
     }
     .txtquest1{
         margin-top: 40px;
-        font-size: 14px;
+        font-size: 1.1rem;
         line-height: 1.5;
         text-align: justify;
         width: 300px;
-        padding-left: 5px;
+        padding: 5px;
     }
     .txtquest2{
-        font-size: 14px;
+        font-size: 1.1rem;
         line-height: 1.5;
         text-align: justify;
         width: 290px;
         margin-top: 40px;
-        padding-left: 5px;
+        padding: 5px;
     }
     .txtquest3{
-        font-size: 14px;
+        font-size: 1.1rem;
         line-height: 1.5;
         text-align: justify;
         width: 290px;
@@ -291,7 +291,7 @@ icone_instagram{
         padding-left: 5px;
     }
     .txtquest4{
-        font-size: 14px;
+        font-size: 1.1rem;
         line-height: 1.5;
         text-align: justify;
         width: 290px;
@@ -299,7 +299,7 @@ icone_instagram{
         padding-left: 5px;
     }
     .txtquest5{
-        font-size: 14px;
+        font-size: 1.1rem;
         line-height: 1.5;
         text-align: justify;
         width: 290px;
@@ -310,7 +310,7 @@ icone_instagram{
     font-size: 10pt;
     }
     .alternativas{
-        font-size: 14px;
+        font-size: 1.1rem;
         line-height: 1.5;
         margin-top: 5px;
         margin-bottom: 10px;
@@ -323,13 +323,13 @@ icone_instagram{
     summary{
         width: 290px;
         height: 15px;
-        font-size: 12px;
+        font-size: 1.1rem;
     }
     details p{
-        font-size: 14px;
+        font-size: 1.1rem;
         line-height: 1.5;
         text-align: justify;
-        width: 240px;
+        width: 150px;
         padding-top: 10px;
         padding-bottom: 20px;
     }
