@@ -240,9 +240,12 @@ icone_instagram{
     /* CELULARES */
     @media (max-width: 768.92px){
     .cabecalho_mobile{
-        display: visible;
+        display: inline-block;
         background-color: #00f;
-        height: 100px;
+        height: 150px;
+    }
+    .cabecalho_logo-site--mobile{
+        display: inline-block;
     }
     .cabecalho{
         width: 100%;
