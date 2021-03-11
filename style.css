@@ -277,17 +277,13 @@ icone_instagram{
         margin-top: 40px;
         font-size: 1.1rem;
         line-height: 1.5;
-        text-align: justify;
-        width: 300px;
-        padding: 5px;
+        width: 290px;
     }
     .txtquest2{
         font-size: 1.1rem;
         line-height: 1.5;
-        text-align: justify;
         width: 290px;
         margin-top: 40px;
-        padding: 5px;
     }
     .txtquest3{
         font-size: 1.1rem;
@@ -295,7 +291,6 @@ icone_instagram{
         text-align: justify;
         width: 290px;
         margin-top: 40px;
-        padding-left: 5px;
     }
     .txtquest4{
         font-size: 1.1rem;
@@ -303,7 +298,6 @@ icone_instagram{
         text-align: justify;
         width: 290px;
         margin-top: 40px;
-        padding-left: 5px;
     }
     .txtquest5{
         font-size: 1.1rem;
@@ -311,7 +305,6 @@ icone_instagram{
         text-align: justify;
         width: 290px;
         margin-top: 40px;
-        padding-left: 5px;
     }
     .btnverificar{
         font-size: 1.1rem;
