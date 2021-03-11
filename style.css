@@ -235,9 +235,12 @@ icone_instagram{
     margin-left: 5px;
 }
 
-    /* Medias queries */
+    /* Medias queries*/
+
+    /* CELULARES */
     @media (max-width: 768.92px){
     .cabecalho_mobile{
+        display: visible;
         background-color: #00f;
         height: 100px;
     }
