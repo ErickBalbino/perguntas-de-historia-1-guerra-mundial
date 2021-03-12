@@ -262,7 +262,7 @@ icone_instagram{
     .cabecalho{
         width: 100%;
         height: 70px;
-        background: linear-gradient(45deg, #22bb36, #ffa500);
+        background: linear-gradient(45deg, #0085ff, #ffa500);
     }
     .cabecalho_menu-lista--item{
         display: inline;
