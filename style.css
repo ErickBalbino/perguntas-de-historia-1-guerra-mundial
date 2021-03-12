@@ -262,7 +262,7 @@ icone_instagram{
     .cabecalho{
         width: 100%;
         height: 70px;
-        background: linear-gradient(45deg, #0ff, #f6f);
+        background: linear-gradient(45deg, #0ff, #a52a2a);
     }
     .cabecalho_menu-lista--item{
         display: inline;
@@ -348,36 +348,32 @@ icone_instagram{
     }
     .btnverificar{
         font-size: 1.05rem;
+        padding: 5px;
     }
     .resposta1{
         padding: 0px 0px 10px 30px;
         margin-bottom: 10px;
         font-size: 1.05rem;
-        font-weight: bold;
     }
     .resposta2{
         padding: 0px 0px 10px 30px;
         margin-bottom: 10px;
         font-size: 1.05rem;
-        font-weight: bold;
     }
     .resposta3{
         padding: 0px 0px 10px 30px;
         margin-bottom: 10px;
         font-size: 1.05rem;
-        font-weight: bold;
     }
     .resposta4{
         padding: 0px 0px 10px 30px;
         margin-bottom: 10px;
         font-size: 1.05rem;
-        font-weight: bold;
     }
     .resposta5{
         padding: 0px 0px 10px 30px;
         margin-bottom: 10px;
         font-size: 1.05rem;
-        font-weight: bold;
     }
     details{
         padding-top: 10px;
