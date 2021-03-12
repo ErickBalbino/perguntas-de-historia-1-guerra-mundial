@@ -138,27 +138,27 @@ input{
 .resposta1{
     padding: 0px 0px 10px 30px;
     margin-bottom: 10px;
-    font-size: 14pt;
+    font-size: 1.05rem;
 }
 .resposta2{
     padding: 0px 0px 10px 30px;
     margin-bottom: 10px;
-    font-size: 14pt;
+    font-size: 1.05rem;
 }
 .resposta3{
     padding: 0px 0px 10px 30px;
     margin-bottom: 10px;
-    font-size: 14pt;
+    font-size: 1.05rem;
 }
 .resposta4{
     padding: 0px 0px 10px 30px;
     margin-bottom: 10px;
-    font-size: 14pt;
+    font-size: 1.05rem;
 }
 .resposta5{
     padding: 0px 0px 10px 30px;
     margin-bottom: 10px;
-    font-size: 14pt;
+    font-size: 1.05rem;
 }
 details{
     padding-top: 10px;
@@ -247,7 +247,7 @@ icone_instagram{
     @media (max-width: 768.92px){
     .cabecalho_mobile{
         display: block;
-        background-color: rgba(0, 0, 255, 0.63);
+        background-color: rgba(27, 27, 223, 0.993);
         height: 100px;
     }
     .cabecalho_logo-site--mobile{
